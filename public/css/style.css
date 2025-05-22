@@ -60,3 +60,9 @@
       align-items: center;
     }
   }
+
+  main p{
+    color: green;
+    font-size: 30px;
+    font-family: cursive;
+  }
